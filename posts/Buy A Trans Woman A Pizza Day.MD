@@ -2,7 +2,7 @@
 
 Date: Friday, 31 March, 2023, 10:40
 
-![Pizza Poster](https://github.com/rikaklassen/Cohost/blob/bd156fa9f2b381230bde3d8ebe00b5bdeca6e90d/pictures/Fsj00fkWAAIZye2.webp)p)
+![Pizza Poster](https://github.com/rikaklassen/Cohost/blob/bd156fa9f2b381230bde3d8ebe00b5bdeca6e90d/pictures/Fsj00fkWAAIZye2.webp)
 
 Feel free to send a pizza via **PayPal** here: [paypal.me/bglamours](https://paypal.me/bglamours).
 
