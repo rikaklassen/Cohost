@@ -3,7 +3,7 @@
 Date: Monday, 10 April 2023, 13:45
 Content Warning: dogs, COVID mismanagements, climate grief
 
-![A head side profile of fawn-coloured West Siberian Laika puppy.](https://github.com/rikaklassen/Cohost/blob/a24190bff467096203966b065c685bdbff9b7c6e/pictures/tumblr_9b4805d49e7dde47c0697603adbde5f3_5724d949_2048.webp) ![https://github.com/rikaklassen/Cohost/blob/1ea51c689ab9edea428ef7128ad19b2215665ee4/pictures/tumblr_cb9816dddc73a328fa9a95004c4e5be4_93ac8a0a_2048.webp](Two West Siberian Laika puppies standing in the back of a pick-up truck with a box cover.)
+![A head side profile of fawn-coloured West Siberian Laika puppy.](https://github.com/rikaklassen/Cohost/blob/a24190bff467096203966b065c685bdbff9b7c6e/pictures/tumblr_9b4805d49e7dde47c0697603adbde5f3_5724d949_2048.webp) ![Two West Siberian Laika puppies standing in the back of a pick-up truck with a box cover.](https://github.com/rikaklassen/Cohost/blob/1ea51c689ab9edea428ef7128ad19b2215665ee4/pictures/tumblr_cb9816dddc73a328fa9a95004c4e5be4_93ac8a0a_2048.webp)
 
 Was on the fence about taking in another animal due to climate catastrophe and COVID travel restrictions, then pondered about adopting a heeler.
 
