@@ -2,6 +2,8 @@
 
 Date: Friday, 31 March, 2023, 10:40
 
+![Pizza Poster](pictures/Fsj00fkWAAIZye2.webp)
+
 Feel free to send a pizza via **PayPal** here: [paypal.me/bglamours](https://paypal.me/bglamours).
 
 Tags: #fundraising, #pizza day, #trans fundraising, #trans day of visibility
