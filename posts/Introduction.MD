@@ -1,5 +1,5 @@
 # Introduction
-Date: Thu, 15 December, 2022, 0:39
+Date: Thu, 15 December, 2022, 00:39
 
 Hi!
 
