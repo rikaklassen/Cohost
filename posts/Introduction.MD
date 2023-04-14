@@ -1,5 +1,5 @@
 # Introduction
-Date: Thu, December 15, 2022, 0:39
+Date: Thu, 15 December, 2022, 0:39
 
 Hi!
 
@@ -36,3 +36,5 @@ Hopefully, this post will make it easier for people to find me and discover my o
 - [Internet Archive](https://archive.org/details/@rika_klassen)
 
 Tags: #welcome to cohost, #twitter exodus, #Twitter migration
+
+URL: https://cohost.org/rikaklassen/post/617651-introduction
