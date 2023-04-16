@@ -1,7 +1,9 @@
 # Cohost
 Here is a GitHub repository for posts from the [Cohost](https://cohost.org/rikaklassen) account.
 
-The pictures embeeded in the individual posts may not display image descriptions correctly on GitHub. Check the raw file if you need the image description.
+The pictures embedded in the individual posts may not display image descriptions correctly on GitHub. Check the raw file if you need the image description.
+
+Due to copyright concerns, replies to other people's posts are not archived on GitHub nor GitLab. Please use the [Wayback Machine](https://web.archive.org/web/*/https://cohost.org/rikaklassen*).
 ## Support
 If you enjoy the blog and wish to see continous updates, please consider tipping via [PayPal](https://paypal.me/bglamours).
 ## License and Copyright
