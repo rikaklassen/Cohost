@@ -38,3 +38,7 @@ Hopefully, this post will make it easier for people to find me and discover my o
 Tags: #welcome to cohost, #twitter exodus, #Twitter migration
 
 URL: https://cohost.org/rikaklassen/post/617651-introduction
+<!--
+If you apperciate the blog post, please consider contributing to the puppy fund: https://www.paypal.me/bglamours.
+-->
+
