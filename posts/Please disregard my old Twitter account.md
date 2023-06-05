@@ -7,3 +7,6 @@ Someone got access to my legacy email account, locked me out of the Twitter acco
 Thank you for understanding!
 
 URL: https://cohost.org/rikaklassen/post/734324-please-disregard-my
+<!--
+If you apperciate the blog post, please consider contributing to the puppy fund: https://www.paypal.me/bglamours.
+-->
