@@ -9,3 +9,6 @@ Nice (sarcasm), apparently it's now forbidden to outlink or crosslink. I have ab
 Tags: #twitter exodus, #Twitter Migration
 
 URL: https://cohost.org/rikaklassen/post/651669-twitter-migration-ma
+<!--
+If you apperciate the blog post, please consider contributing to the puppy fund: https://www.paypal.me/bglamours.
+-->
