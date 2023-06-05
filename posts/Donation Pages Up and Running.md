@@ -23,3 +23,6 @@ Have a few sponsored folks who need to be highlighted, but need their consent to
 - [Amazon](https://www.amazon.ca/hz/wishlist/ls/3VKZUTZ59GJSJ?ref_=wl_share)
 
 URL: https://cohost.org/rikaklassen/post/769701-donation-pages-up-an
+<!--
+If you apperciate the blog post, please consider contributing to the puppy fund: https://www.paypal.me/bglamours.
+-->
