@@ -7,3 +7,6 @@ Finished optimizing [Instagram](https://www.instagram.com/rikaklassen/) for blin
 Also converted the hashtags into Capitalized Case and camelCase for easier screenreader usage.
 
 URL: https://cohost.org/rikaklassen/post/734316-instagram-accessibil
+<!--
+If you apperciate the blog post, please consider contributing to the puppy fund: https://www.paypal.me/bglamours.
+-->
