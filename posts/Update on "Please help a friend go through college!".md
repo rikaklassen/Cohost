@@ -1,3 +1,5 @@
+# Update on "Please help a friend go through college!"
+
 Date: Thursday November 2, 2023, 11:14
 
 ![Hey everyone!
