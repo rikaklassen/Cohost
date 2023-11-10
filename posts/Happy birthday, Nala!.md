@@ -8,4 +8,4 @@ Send a gift: [paypal.me/bglamours](https://paypal.me/bglamours).
 
 Tags: #Happy birthday, #birthday girl, #happy bday, #hbd, #birthday cat, #cats of cohost
 
-URL: [https://cohost.org/rikaklassen/post/1477985-happy-birthday-nala](https://cohost.org/rikaklassen/post/1477985-happy-birthday-nala)
+URL: https://cohost.org/rikaklassen/post/1477985-happy-birthday-nala
