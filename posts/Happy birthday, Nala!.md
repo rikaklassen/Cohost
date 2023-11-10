@@ -1,6 +1,6 @@
 Date: Wednesday, 10 May 2023, 13:57
 
-![Shorthair tabby cat with a prism reflecting rainbow off their face while sitting on a couch.](https://github.com/rikaklassen/Cohost/blob/1ea51c689ab9edea428ef7128ad19b2215665ee4/pictures/FH-L-XQVEAA0w4t.webp)
+![Shorthair tabby cat with a prism reflecting rainbow off their face while sitting on a couch.](https://raw.githubusercontent.com/rikaklassen/Cohost/main/pictures/FH-L-XQVEAA0w4t.webp)
 
 Send a gift: [paypal.me/bglamours](https://paypal.me/bglamours).
 
