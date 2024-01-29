@@ -15,6 +15,11 @@ Ghost is open-source and can be self-hosted. There are professionals available w
 (There's also [WriteFreely](https://writefreely.org/) / [write.as](https://write.as/writefreely) for the Fediverse with managed hosting options. And there is an [ActivityPub](https://codeberg.org/quigs/ghostcms-activitypub) plugin for Ghost.)
 
 URL: https://cohost.org/rikaklassen/post/1307434-alternatives-to-subs
+
+Internet Archive: https://web.archive.org/web/20240129054233/https://cohost.org/rikaklassen/post/1307434-alternatives-to-subs
+
+archive.today: https://archive.ph/QFiUs
+
 <!--
 If you apperciate the blog post, please consider contributing to the puppy fund: https://www.paypal.me/bglamours.
 -->
