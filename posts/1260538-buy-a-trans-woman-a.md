@@ -10,6 +10,10 @@ Tags: #fundraising, #pizza day, #trans fundraising, #trans day of visibility
 
 URL: https://cohost.org/rikaklassen/post/1260538-buy-a-trans-woman-a
 
+Internet Archive: https://web.archive.org/web/20240129055037/https://cohost.org/rikaklassen/post/1260538-buy-a-trans-woman-a
+
+archive.today: https://archive.is/O58Cu
+
 <!--
 If you apperciate the blog post, please consider contributing to the puppy fund: https://www.paypal.me/bglamours.
 -->
