@@ -19,3 +19,7 @@ URL: https://cohost.org/rikaklassen/post/3387800-update-on-please-he
 Internet Archive: https://web.archive.org/web/20240129082115/https://cohost.org/rikaklassen/post/3387800-update-on-please-he
 
 archive.today: https://archive.is/thdZb
+
+<!--
+If you apperciate the blog post, please consider contributing to the puppy fund: https://www.paypal.me/bglamours.
+-->
