@@ -13,3 +13,7 @@ Here is her PayPal: [paypal.me/bglamours](https://paypal.me/bglamours).
 Tags: #Happy birthday, #hbd, #happy bday, #birthday girl
 
 URL: https://cohost.org/rikaklassen/post/1475810-bestie-s-birthday
+
+Internet Archive: https://web.archive.org/web/20240129080130/https://cohost.org/rikaklassen/post/1475810-bestie-s-birthday
+
+archive.today: https://archive.is/zCusD
