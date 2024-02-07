@@ -11,3 +11,10 @@ Hoping to have everything archived before bestie panics. Their birthday is in th
 Tags: #birdsite, #archival works, #web archival, #twitter, #archiving, #internet history
 
 URL: https://cohost.org/rikaklassen/post/1490639-elon-musk-announced
+
+Internet Archive: https://web.archive.org/web/20230522153446/https://cohost.org/rikaklassen/post/1490639-elon-musk-announced
+
+archive.today: https://archive.is/A77Op
+<!--
+If you apperciate the blog post, please consider contributing to the COVID fund: https://www.paypal.me/bglamours.
+-->
