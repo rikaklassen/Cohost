@@ -11,3 +11,11 @@ Send a gift: [paypal.me/bglamours](https://paypal.me/bglamours).
 Tags: #Happy birthday, #birthday girl, #happy bday, #hbd, #birthday cat, #cats of cohost
 
 URL: https://cohost.org/rikaklassen/post/1477985-happy-birthday-nala
+
+Internet Archive: https://web.archive.org/web/20240129075504/https://cohost.org/rikaklassen/post/1477985-happy-birthday-nala
+
+archive.today: https://archive.is/Vx9ai
+
+<!--
+If you apperciate the blog post, please consider contributing to the puppy fund: https://www.paypal.me/bglamours.
+-->
