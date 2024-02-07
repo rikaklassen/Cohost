@@ -14,3 +14,11 @@ https://www.gofundme.com/f/jons-fight-with-stage-4-metastatic-melanoma
 Tags: ##disability crowdfund, #crowdfunding, #disability crowdfund, #mutual aid request
 
 URL: https://cohost.org/rikaklassen/post/2832289-a-close-corresponden
+
+Internet Archive: https://web.archive.org/web/20240129082541/https://cohost.org/rikaklassen/post/2832289-a-close-corresponden
+
+archive.today: https://archive.is/HrhgU
+
+<!--
+If you apperciate the blog post, please consider contributing to the puppy fund: https://www.paypal.me/bglamours.
+-->
