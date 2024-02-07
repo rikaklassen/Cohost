@@ -9,3 +9,11 @@ Bestie got screwed over by her air carrier. Please consider helping her out: [pa
 Tags: #fundraising
 
 URL: https://cohost.org/rikaklassen/post/2579526-emergency-travel
+
+Internet Archive: https://web.archive.org/web/20240129091523/https://cohost.org/rikaklassen/post/2579526-emergency-travel
+
+archive.today: https://archive.is/h6FVU
+
+<!--
+If you apperciate the blog post, please consider contributing to the puppy fund: https://www.paypal.me/bglamours.
+-->
