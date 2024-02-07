@@ -9,3 +9,7 @@ Ant-Man on Disney+ has this feature, and so does the Blu-Ray edition of [Ice Age
 Tags: #picture-in-picture, #a11y, #accessibility, #web accessibility, #sign language, #YouTube, #video accessibility, #Pip
 
 URL: https://cohost.org/rikaklassen/post/1574454-https-www-youtube
+
+archive.today: https://archive.is/Te2VZ
+
+Internet Archive: https://web.archive.org/web/20240129075837/https://cohost.org/rikaklassen/post/1574454-https-www-youtube
