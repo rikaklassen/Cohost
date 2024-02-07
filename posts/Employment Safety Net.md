@@ -13,6 +13,11 @@ Thank you!
 Tags: #fundraising, #unemployment, #job security, #safety net, #twitter embed
 
 URL: https://cohost.org/rikaklassen/post/1438230-employment-safety-ne
+
+Internet Archive: https://web.archive.org/web/20240129075743/https://cohost.org/rikaklassen/post/1438230-employment-safety-ne
+
+archive.today: https://archive.is/sMPIR
+
 <!--
 If you apperciate the blog post, please consider contributing to the puppy fund: https://www.paypal.me/bglamours.
 -->
