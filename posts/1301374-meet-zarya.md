@@ -38,6 +38,11 @@ If you wish to help out with Zarya, please feel free to contribute to the [puppy
 Tags: #West Siberian Laika, #wsl, #new puppy, #new dog, #crag dog, #hiking dog, #dogpacking, #bikepacking, #packrafting, #long distance backpacking, #long distance hiking, #thru hiking
 
 URL: https://cohost.org/rikaklassen/post/1301374-meet-zarya
+
+Internet Archive: https://web.archive.org/web/20240129075759/https://cohost.org/rikaklassen/post/1301374-meet-zarya
+
+archive.today: https://archive.is/oCbF5
+
 <!--
 If you apperciate the blog post, please consider contributing to the puppy fund: https://www.paypal.me/bglamours.
 -->
