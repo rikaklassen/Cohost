@@ -9,3 +9,10 @@ So, going to have to download that person's YouTube channel and reupload the vid
 Tags: Google graveyard, Internet Archive, Wayback Machine, inactive account, idle account, account deletion, archiving, archival works
 
 URL: https://cohost.org/rikaklassen/post/1514218-54-done-with-archiv
+
+Internet Archive: https://web.archive.org/web/20240129075835/https://cohost.org/rikaklassen/post/1514218-54-done-with-archiv
+
+archive.today: https://archive.is/AmqoY
+<!--
+If you apperciate the blog post, please consider contributing to the COVID fund: https://www.paypal.me/bglamours.
+-->
