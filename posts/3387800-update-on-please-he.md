@@ -15,3 +15,7 @@ Feel free to help her out: [paypal.me/bglamours](https://www.paypal.me/bglamours
 Tags: #fundraising, #crowdfunding
 
 URL: https://cohost.org/rikaklassen/post/3387800-update-on-please-he
+
+Internet Archive: https://web.archive.org/web/20240129082115/https://cohost.org/rikaklassen/post/3387800-update-on-please-he
+
+archive.today: https://archive.is/thdZb
