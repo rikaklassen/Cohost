@@ -8,6 +8,9 @@ Tags: birthday queen, birthday girl, happy birthday, have a fancy dinner, happy 
 
 URL: https://cohost.org/rikaklassen/post/1509660-https-twitter-com
 
-Internet Archive;
+Internet Archive: https://web.archive.org/web/20240207174318/https://cohost.org/rikaklassen/post/1509660-https-twitter-com
 
-archive.today:
+archive.today: https://archive.ph/qYtiJ
+<!--
+If you apperciate the blog post, please consider contributing to the COVID fund: https://www.paypal.me/bglamours.
+-->
