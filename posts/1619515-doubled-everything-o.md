@@ -5,3 +5,10 @@ Doubled everything on the hiking wish lists for [Throne](https://throne.com/rika
 Need redundancy for hiking partners.
 
 URL: https://cohost.org/rikaklassen/post/1619515-doubled-everything-o
+
+Internet Archive: https://web.archive.org/web/20240129075817/https://cohost.org/rikaklassen/post/1619515-doubled-everything-o
+
+archive.today: https://archive.is/1hBXb
+<!--
+If you apperciate the blog post, please consider contributing to the COVID fund: https://www.paypal.me/bglamours.
+-->
