@@ -10,6 +10,13 @@ Sister grew up watching that on Family Channel before going to school.
 
 Was seeing if a VHS or DVD exists for bestie's Christmas. But only the soundtrack is available.
 
-Tags: #Darcy's Wild Life, #Family Channel, #Sara Paxton, #lost media, #2004 — 2006
+Tags: Darcy's Wild Life, Family Channel, Sara Paxton, lost media, 2004 — 2006
 
 URL: https://cohost.org/rikaklassen/post/1520828-today-i-learned-darc
+
+Internet Archive: https://web.archive.org/web/20240129080137/https://cohost.org/rikaklassen/post/1520828-today-i-learned-darc
+
+archive.today: https://archive.is/DVCi2
+<!--
+If you apperciate the blog post, please consider contributing to the COVID fund: https://www.paypal.me/bglamours.
+-->
