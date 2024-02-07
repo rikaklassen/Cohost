@@ -33,3 +33,7 @@ URL: https://cohost.org/rikaklassen/post/2831228-well-wanted-to-ask
 Internet Archive: https://web.archive.org/web/20240129082606/https://cohost.org/rikaklassen/post/2831228-well-wanted-to-ask
 
 archive.today: https://archive.is/KRZnl
+
+<!--
+If you apperciate the blog post, please consider contributing to the puppy fund: https://www.paypal.me/bglamours.
+-->
