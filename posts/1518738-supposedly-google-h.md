@@ -13,3 +13,10 @@ Would still be archiving to Wayback Machine and uploading the videos on Internet
 Tags: #Google policies, #Google Graveyard, #archival works, #internet archive, #wayback machine, #archiving, #idle account, #inactive account, #account deletion, #killed by Google
 
 URL: https://cohost.org/rikaklassen/post/1518738-supposedly-google-h
+
+Internet Archive: https://web.archive.org/web/20240129075920/https://cohost.org/rikaklassen/post/1518738-supposedly-google-h
+
+archive.today: https://archive.is/ohG8D
+<!--
+If you apperciate the blog post, please consider contributing to the COVID fund: https://www.paypal.me/bglamours.
+-->
